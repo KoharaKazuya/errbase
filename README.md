@@ -172,4 +172,4 @@ func (e *MyCustomError) Unwrap() error {
 [godoc]: https://godoc.org/github.com/KoharaKazuya/errbase
 [godoc widget]: https://godoc.org/github.com/KoharaKazuya/errbase?status.svg
 [circleci]: https://circleci.com/gh/KoharaKazuya/errbase
-[circleci widget]: https://circleci.com/gh/KoharaKazuya/errbase.svg?style=svg
+[circleci widget]: https://img.shields.io/circleci/build/gh/KoharaKazuya/errbase.svg
