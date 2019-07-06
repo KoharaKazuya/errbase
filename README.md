@@ -42,6 +42,8 @@ func doSomething1() error {
 }
 ```
 
+For more simplity, you can see [errval](https://github.com/KoharaKazuya/errval).
+
 ## Motivation
 
 To leverage error handling, we often use new standard error interface in Go 1.13+ or with xerrors package. However, we feel bored to implement for each error types.
